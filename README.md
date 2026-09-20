@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben Abdallah Hamza</h1>
-<h3 align="center">2nd-year Engineering Student | Software Developer (C/C++, Qt, SDL, Arduino)</h3>
+<h3 align="center">3nd-year Engineering Student | Software Developer (C/C++, Qt, SDL, Arduino)</h3>
 
 ---
 
